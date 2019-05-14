@@ -1,0 +1,4 @@
+.wiki:hover {
+	border: 1px solid black;
+	transform: rotate(180deg);
+}
